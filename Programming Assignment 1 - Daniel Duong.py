@@ -4,7 +4,7 @@ import math
 
 #CECS 229 Python Assignment 1
 
-#Problem 1
+#Problem 1 - Incorrect
 
 print(" ----------- Problem 1: -----------\n")
 
@@ -54,7 +54,7 @@ new_result = {(i ** 4) - 2 for i in array}
 
 print("The new values for the set are", new_result, "\n")
       
-#Problem 5
+#Problem 5 - Incorrect
 
 print(" ----------- Problem 5: -----------\n")
 
