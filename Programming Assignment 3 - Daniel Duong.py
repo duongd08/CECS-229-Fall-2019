@@ -5,7 +5,8 @@ from math import gcd #This tool imports the built in function for the GCD.
 #Names: Daniel Duong, Brandon Walker, Alex Chheng
 
 def ChineseRemainderTheorem(L):
-
+    #pass
+    
     #print(L)
 
     #print("Number of sub-lists:", len(L))
@@ -65,6 +66,8 @@ def ChineseRemainderTheorem(L):
         return int(result)
     
 def IsRelativelyPrime(m_list): #The way that we check is by the m values not a values.
+    #pass
+    
     relativelyPrime = True
 
     for a in range(len(m_list)):
