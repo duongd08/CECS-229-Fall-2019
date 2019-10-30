@@ -4,6 +4,8 @@ from math import gcd #This tool imports the built in function for the GCD.
 
 #Names: Daniel Duong, Brandon Walker, Alex Chheng
 
+#Question 1 - Chinese Remainder Theorem
+
 def ChineseRemainderTheorem(L):
     #pass
     
