@@ -148,7 +148,7 @@ def Encryption(b, n, e, s):  # base, mod, power
         tempB = "0" + tempB
     return tempB
 
-'''def main():
+def main():
 
     print(RSAencrypt(43, 59, 13, "STOP"))
     print(RSAencrypt(43, 59, 13, "ABC"))
@@ -157,5 +157,5 @@ def Encryption(b, n, e, s):  # base, mod, power
     print(RSAencrypt(43,14,13,"ABC"))
     print(RSAencrypt(11,13,10,"EXCELLENT"))
 
-main()'''
+main()
 
